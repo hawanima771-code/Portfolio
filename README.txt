@@ -1,8 +1,3 @@
-PORTFOLIO ACADÉMIQUE — HAWA ELMI WABERI
+PORTFOLIO HAWA ELMI WABERI - VERSION AVEC PHOTOS AL-SHIFA
 
-1. Ouvrir index.html dans Google Chrome, Edge ou Firefox.
-2. Pour modifier le site, ouvrir le dossier dans Visual Studio Code.
-3. Fichiers : index.html (contenu), style.css (design), script.js (menu et copie), assets/photo-hawa.jpg (portrait).
-4. La section Contact ne contient volontairement pas d'adresse email, car elle n'a pas été fournie. Vous pouvez l'ajouter dans index.html.
-5. Les descriptions des stages sont générales car les missions précises n'ont pas été communiquées.
-6. Pour partager le portfolio par lien, publier le dossier sur GitHub Pages ou une plateforme d'hébergement statique.
+Dans ce dossier, tous les fichiers sont au meme niveau. Pour GitHub, allez dans le depot Portfolio > Add file > Upload files, puis selectionnez index.html, hawa-photo.jpg, alshifa-tableau-de-bord.jpg, alshifa-rendez-vous.jpg, alshifa-statistiques.jpg et CV_Hawa_Elmi_Waberi.pdf. Validez avec Commit changes. Aucun sous-dossier assets necessaire. Les captures proviennent de Doc1.docx (pages 2, 3 et 9).

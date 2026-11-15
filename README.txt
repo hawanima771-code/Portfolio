@@ -1,3 +1,11 @@
-PORTFOLIO HAWA ELMI WABERI - VERSION AVEC PHOTOS AL-SHIFA
+PORTFOLIO HAWA ELMI WABERI
 
-Dans ce dossier, tous les fichiers sont au meme niveau. Pour GitHub, allez dans le depot Portfolio > Add file > Upload files, puis selectionnez index.html, hawa-photo.jpg, alshifa-tableau-de-bord.jpg, alshifa-rendez-vous.jpg, alshifa-statistiques.jpg et CV_Hawa_Elmi_Waberi.pdf. Validez avec Commit changes. Aucun sous-dossier assets necessaire. Les captures proviennent de Doc1.docx (pages 2, 3 et 9).
+Site statique autonome HTML/CSS/JS, prêt pour GitHub Pages.
+
+IMPORTANT : le CV et le document Word contenant les 2-3 captures réelles Al-Shifa n'étaient pas joints au message.
+La galerie contient donc des emplacements explicitement marqués 'Capture à ajouter'.
+Les missions détaillées des stages, les compétences techniques exactes et les coordonnées sont à mettre à jour après lecture du CV.
+
+Pour mettre à jour GitHub : déposer index.html et le dossier assets/ sur la branche main du dépôt Portfolio (en conservant les chemins). Le nom de la photo doit rester assets/hawa-photo.jpg.
+URL historique du dépôt : https://hawanima771-code.github.io/Portfolio/
+Le lien public n'affichera la nouvelle version qu'après un nouveau commit et un déploiement GitHub Pages réussi.
